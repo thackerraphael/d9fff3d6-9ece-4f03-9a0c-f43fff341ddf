@@ -1,15 +1,4 @@
-.main{
- 
-    height: 100vh;
-    padding: 20px;
-}
-.nav-bar{
-    background-color:#0C1E7F;
-    height: 10vh;
-    text-align:center;
-    padding-top: 10px;
-    color: white;
-}
+
 .log{
     background-color:#D1D1D1;
     height: 83vh;
